@@ -6,7 +6,8 @@ body{
 .blog-post-card{
   background-color:white;
   border-radius:20px;
-  width:660px;
+  width:90%px;
+  max-width:660px;
   text-align:center;
   margin-left:auto;
   margin-right:auto;
@@ -15,7 +16,7 @@ body{
 
 .post-img
 {
-  width:660px;
+  width:100%px;
   border-bottom:2px solid green;
 }
 
